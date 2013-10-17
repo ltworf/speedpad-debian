@@ -1,0 +1,2 @@
+version=3
+http://code.google.com/p/speedpad/downloads/list .*/speedpad-(\d\S*)\.(?:zip|tgz|tbz|txz|(?:tar\.(?:gz|bz2|xz)))
