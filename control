@@ -1,9 +1,9 @@
 Source: speedpad
 Section: games
-Priority: extra
+Priority: optional
 Maintainer: Salvo 'LtWorf' Tomaselli <tiposchi@tiscali.it>
-Standards-Version: 3.9.4
-Build-Depends: debhelper (>= 9), python, python-support
+Standards-Version: 3.9.6
+Build-Depends: debhelper (>= 9), python, dh-python
 Vcs-Git: git://github.com/ltworf/speedpad-debian.git
 Vcs-Browser: https://github.com/ltworf/speedpad-debian
 Homepage: http://feurix.org/projects/speedpad/
