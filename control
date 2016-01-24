@@ -17,7 +17,7 @@ Recommends: fortune-mod | fortunes | fortunes-bg | fortunes-bofh-excuses |
  fortunes-fr | fortunes-ga | fortunes-it | fortunes-it-off | fortunes-mario
  | fortunes-min | fortunes-off | fortunes-pl | fortunes-ru
 Description: ncurses tool to test, train, and increase typing speed
- on arbitrary text input:
+ This is a tool to improve your typing speed on arbitrary text input:
  .
   * designed for intermediate to advanced level typists
   * assumes that you have already learned how to touch type

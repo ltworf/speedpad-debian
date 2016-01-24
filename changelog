@@ -1,3 +1,9 @@
+speedpad (1.0-2) unstable; urgency=low
+
+  * Fix description. (Closes: #809748)
+
+ -- Salvo 'LtWorf' Tomaselli <tiposchi@tiscali.it>  Sun, 24 Jan 2016 14:55:51 +0100
+
 speedpad (1.0-1) unstable; urgency=low
 
   * Initial release. (Closes: #646059)
