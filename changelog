@@ -1,6 +1,7 @@
 speedpad (1.0-2) unstable; urgency=low
 
   * Fix description. (Closes: #809748)
+  * Change Vcs-Git to use https
 
  -- Salvo 'LtWorf' Tomaselli <tiposchi@tiscali.it>  Sun, 24 Jan 2016 14:55:51 +0100
 
